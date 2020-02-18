@@ -933,10 +933,6 @@
         "title": "Integrating with MobX State Tree",
         "sidebar_label": "MobX State Tree integration"
       },
-      "version-5.x/version-5.x-native-stack-navigator": {
-        "title": "createNativeStackNavigator",
-        "sidebar_label": "createNativeStackNavigator"
-      },
       "version-5.x/version-5.x-navigating-without-navigation-prop": {
         "title": "Navigating without the navigation prop",
         "sidebar_label": "Navigating without the navigation prop"

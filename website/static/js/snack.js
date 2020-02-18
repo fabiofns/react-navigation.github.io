@@ -13,7 +13,6 @@ const DEPS_VERSIONS = {
     '@react-navigation/drawer@^5.0.5',
     '@react-navigation/material-bottom-tabs@^5.0.5',
     '@react-navigation/material-top-tabs@^5.0.5',
-    '@react-navigation/native-stack@^5.0.5',
     '@react-navigation/stack@^5.0.5',
     'react-native-gesture-handler@1.5.2',
     'react-native-reanimated@1.4.0',
